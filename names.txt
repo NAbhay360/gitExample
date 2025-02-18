@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,anarayanan23,Narayanan,Abhay
 employee,jwcramer2,Cramer,Jackson
